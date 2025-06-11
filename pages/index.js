@@ -1,0 +1,1 @@
+export default function Home() { return <div><h1>Welcome to PaySurity</h1></div>; }

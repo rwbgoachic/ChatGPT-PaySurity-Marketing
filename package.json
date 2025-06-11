@@ -1,0 +1,7 @@
+{
+  "name": "chatgpt-paysurity-marketing",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  }
+}
